@@ -14,6 +14,6 @@ See the [observable_test.go](observable_test.go).
 
 The MIT License (MIT)
 
-Copyright (c) 2016 Scott Barr
+Copyright (c) 2017 Scott Barr
 
 See [LICENSE.md](LICENSE.md)
