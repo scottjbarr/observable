@@ -2,13 +2,20 @@
 
 The classic Observer pattern.
 
+This package provides an implementation of the Observable. The Observer
+needs to be provided by your application or library.
+
+
 ## Usage
 
-See the [observable_test.go](observable_test.go).
+See [observable_test.go](observable_test.go) for an example of an
+`Observer`.
+
 
 ## References
 
 - https://en.wikipedia.org/wiki/Observer_pattern
+
 
 ## License
 
